@@ -1,7 +1,7 @@
 ![屏幕录制 2026-04-14 122158](https://github.com/user-attachments/assets/cfb19abb-3ab1-408f-976b-b9147771f94b)
 
 <img width="2548" height="496" alt="image" src="https://github.com/user-attachments/assets/d6845ab7-06df-4be3-b763-df7b8f137cdb" />
-### keep developing for future
+keep developing for future
 
 - 🔭 I'm currently working on **A Pioneering Proactive AI**
 
